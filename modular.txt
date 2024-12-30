@@ -1,0 +1,495 @@
+ Which of the following can help advertisers identify the keywords to add to their list by identifying words that are gathering traction to their sites? 
+
+
+Search terms report 
+Ad preview tool 
+Google trends 
+AdWords editor 
+ 
+ 
+ChatGPT said:
+ChatGPT
+The correct answer is Google Trends.
+
+Google Trends helps advertisers identify popular and trending keywords by showing the search volume over time for specific terms. This can help identify emerging keywords that are gaining traction, which advertisers can then consider adding to their campaigns.
+
+Here’s a breakdown of the other tools:
+
+Search terms report: This report in Google Ads shows the actual search terms that triggered your ads, but it doesn't specifically help with discovering new trending keywords.
+Ad preview tool: This tool lets you see how your ads appear in the search results, but it doesn't help identify trending keywords.
+AdWords editor: This is a tool for managing your Google Ads campaigns offline, but it doesn't provide insights into trending keywords.
+So, Google Trends is the best option for identifying keywords gaining traction.
+
+
+You said:
+Which of the following are the examples of datasets? 
+
+
+Daily sales score of retail store 
+Weekly production of a garment manufacturing 
+Yearly GDP of a developing country 
+All of these 
+ChatGPT said:
+ChatGPT
+The correct answer is All of these.
+
+Each of the options represents a type of dataset:
+
+Daily sales score of a retail store: This is a dataset because it contains data points about the store's sales on a daily basis.
+Weekly production of a garment manufacturing: This is also a dataset, as it includes data about the production volume over a week.
+Yearly GDP of a developing country: This is a dataset as well, representing data points over a year.
+In general, a dataset is any collection of data that is structured and can be analyzed. All of the examples provided fit that definition.
+
+
+You said:
+ Which of the following Informat options reads and extracts date, month abbreviation, and year? 
+
+
+DATEw. 
+DATETIMEw.d 
+DDMMYYw. 
+MMDDYYw. 
+ 
+ 
+ChatGPT said:
+ChatGPT
+The correct answer is DATEw..
+
+The DATEw. format in SAS (Statistical Analysis System) is used to read and extract a date, typically in the form of day, month abbreviation, and year. This format is designed to interpret dates in a variety of formats, including textual month abbreviations (like Jan, Feb, etc.).
+
+Here’s a breakdown of the other formats:
+
+DATETIMEw.d: This format is used to read and extract both date and time information, not just the date or month abbreviation.
+DDMMYYw.: This format is used to read dates in a specific format (day, month, year), but it doesn't extract the month abbreviation.
+MMDDYYw.: Similar to DDMMYYw., this format reads dates in the month-day-year format and doesn't extract the month abbreviation.
+Thus, DATEw. is the format that best reads and extracts the date, month abbreviation, and year.
+
+
+You said:
+ Which of the following image file format is NOT allowed for use on Google Display Network? 
+
+
+.PNG file format 
+Image repetition 
+.JPEG file format 
+All of these 
+ 
+ 
+ChatGPT said:
+ChatGPT
+The correct answer is Image repetition.
+
+Image repetition is not a valid file format. It's likely referring to a method of repeating images across a display, but not a file type.
+
+Here’s a breakdown of the other options:
+
+.PNG file format: This is a widely supported image format and is allowed on the Google Display Network.
+.JPEG file format: This is also a common image format and is allowed on the Google Display Network.
+All of these: Since .PNG and .JPEG are allowed, this option is incorrect.
+So, the correct answer is Image repetition, which is not an image file format.
+
+
+You said:
+ ____________ is the best image type for uploading images to an Ad Gallery. 
+
+
+Transparent PNG 
+Transparent JPG 
+GIF 
+None of these 
+ 
+ 
+ChatGPT said:
+ChatGPT
+The correct answer is Transparent PNG.
+
+Transparent PNG is the best image type for uploading images to an Ad Gallery, especially when you want images to maintain transparency (e.g., for logos or images with non-rectangular shapes) without losing quality. PNG files support transparent backgrounds, which is often important in ad design.
+
+Here's why the other options aren't as ideal:
+
+Transparent JPG: JPG files do not support transparency, so this is not a good choice.
+GIF: While GIFs can support transparency, they have a limited color palette (256 colors), which makes them less suitable for high-quality images compared to PNG.
+None of these: This is incorrect, as Transparent PNG is the best option.
+So, Transparent PNG is the best image type for uploading images to an Ad Gallery.
+
+
+You said:
+An advantage of advertising on YouTube over another traditional media is: 
+
+
+YouTube consists of a wide range of diverse interest categories 
+YouTube has an audience that represents broader and global population 
+YouTube has an audience that actively engages with the content 
+YouTube gets huge number of unique visitors per day 
+ 
+ChatGPT said:
+ChatGPT
+The correct answer is All of the above.
+
+Each of the points listed highlights a key advantage of advertising on YouTube compared to traditional media:
+
+YouTube consists of a wide range of diverse interest categories: YouTube hosts content across numerous categories, allowing advertisers to target specific interests and demographics more precisely.
+
+YouTube has an audience that represents a broader and global population: With millions of users around the world, YouTube allows advertisers to reach a truly global audience.
+
+YouTube has an audience that actively engages with the content: Users on YouTube often interact with videos through likes, comments, and shares, making the platform highly engaging for advertisers.
+
+YouTube gets a huge number of unique visitors per day: YouTube has one of the largest user bases of any platform, providing advertisers with access to a vast audience.
+
+All of these factors combined make YouTube a highly advantageous platform for advertising.
+
+
+You said:
+An advantage of advertising on YouTube over another traditional media is: 
+
+
+YouTube consists of a wide range of diverse interest categories 
+YouTube has an audience that represents broader and global population 
+YouTube has an audience that actively engages with the content 
+YouTube gets huge number of unique visitors per day 
+ChatGPT said:
+ChatGPT
+The correct answer is: All of the above.
+
+Each of the points highlights a significant advantage of advertising on YouTube compared to traditional media:
+
+YouTube consists of a wide range of diverse interest categories: YouTube hosts content across many categories, from entertainment to education, allowing advertisers to target specific audiences based on their interests.
+
+YouTube has an audience that represents a broader and global population: YouTube's reach extends worldwide, with users from various countries, making it easier to target both local and global markets.
+
+YouTube has an audience that actively engages with the content: Users on YouTube often engage with videos by liking, commenting, sharing, and subscribing, which increases the potential for interaction with ads.
+
+YouTube gets a huge number of unique visitors per day: With billions of users visiting YouTube daily, advertisers have access to an enormous and diverse audience.
+
+Therefore, all these points represent advantages of advertising on YouTube over traditional media.
+
+
+You said:
+ Maximum file size for a TrueView video ad is _____________. 
+
+
+50 MB 
+500 MB 
+1 GB 
+2 GB 
+ 
+ 
+ChatGPT said:
+ChatGPT
+The correct answer is 1 GB.
+
+For a TrueView video ad on YouTube, the maximum file size allowed is 1 GB. This file size limit ensures that the video is of high quality but still manageable for streaming and quick loading.
+
+Here’s a quick reference for the other options:
+
+50 MB: This is too small for high-quality video ads.
+500 MB: Still below the limit for TrueView ads.
+2 GB: Exceeds the allowed file size for TrueView ads.
+Thus, the maximum file size for a TrueView video ad is 1 GB.
+
+
+You said:
+A campaign has received 15,000 impressions and 600 views and a channel has received 300 clicks. What is the View-Through Rate (VTR)? 
+
+
+10% 
+4% 
+2% 
+25% 
+ChatGPT said:
+ChatGPT
+The View-Through Rate (VTR) is calculated as:
+
+VTR
+=
+(
+Views
+Impressions
+)
+×
+100
+VTR=( 
+Impressions
+Views
+​
+ )×100
+From the given data:
+
+Impressions = 15,000
+Views = 600
+Now, calculate the VTR:
+
+VTR
+=
+(
+600
+15
+,
+000
+)
+×
+100
+=
+4
+%
+VTR=( 
+15,000
+600
+​
+ )×100=4%
+So, the correct answer is 4%.
+
+
+You said:
+Which of the following actions are possible in YouTube analytics? 
+
+
+Check engagement reports 
+Check 'earned subscribers' count 
+Create new remarketing lists 
+Check 'Intelligence events' count 
+ChatGPT said:
+ChatGPT
+The correct actions possible in YouTube Analytics are:
+
+Check engagement reports: You can view detailed engagement metrics like watch time, likes, comments, and shares in YouTube Analytics, which helps track how viewers interact with your videos.
+
+Check 'earned subscribers' count: YouTube Analytics provides a report on "earned subscribers", which shows the number of subscribers gained after a particular video or campaign.
+
+The following are not possible in YouTube Analytics:
+
+Create new remarketing lists: While you can use YouTube for remarketing in Google Ads, creating new remarketing lists is done within Google Ads, not YouTube Analytics.
+
+Check 'Intelligence events' count: Intelligence events, such as sudden spikes in traffic, are part of the Google Ads platform for campaign management, not YouTube Analytics.
+
+So, the actions you can perform directly in YouTube Analytics are checking engagement reports and checking 'earned subscribers' count.
+
+
+You said:
+Where does the user land if he/she clicks a call-to-action overlay on a TrueView video discovery ad? 
+
+
+The advertisers video 
+The advertisers website 
+The advertisers YouTube channel page 
+The YouTube home page 
+ChatGPT said:
+ChatGPT
+The correct answer is: The advertiser's website.
+
+When a user clicks a call-to-action overlay on a TrueView video discovery ad, they are directed to the advertiser's website (or the specific URL provided by the advertiser in the ad setup).
+
+Here's a breakdown of the other options:
+
+The advertiser's video: Clicking the call-to-action doesn't lead to the video itself; it leads to the advertiser's website.
+The advertiser's YouTube channel page: The CTA overlay does not direct users to the channel page; it directs to an external site unless configured otherwise.
+The YouTube home page: Clicking a CTA overlay does not lead to the YouTube home page, but to the advertiser's website.
+So, clicking the call-to-action overlay on a TrueView video discovery ad takes users to the advertiser's website.
+
+
+You said:
+What are the two types of delivery methods in budget and bidding? 
+
+
+Standard 
+Regular 
+Accelerated 
+Time specific 
+ 
+ChatGPT said:
+ChatGPT
+The two types of delivery methods in budget and bidding are:
+
+Standard: This delivery method spreads the budget evenly throughout the day to maximize performance while avoiding overspending. It's the default setting for most campaigns and helps ensure steady ad delivery.
+
+Accelerated: This delivery method attempts to spend the budget as quickly as possible throughout the day. It's used when you want your ads to be shown more rapidly, often for time-sensitive campaigns.
+
+Time specific and Regular are not commonly recognized as specific delivery methods in the context of budget and bidding for Google Ads.
+
+Thus, the correct delivery methods are Standard and Accelerated.
+
+
+You said:
+ The monthly charge will be limited to ___ times of the daily budget limit. 
+
+
+30 
+30.4 
+30.2 
+34 
+ 
+ 
+ChatGPT said:
+ChatGPT
+The correct answer is 30.4.
+
+In Google Ads, the monthly charge will be limited to 30.4 times your daily budget. This accounts for the average number of days in a month (30.4 days), ensuring that your monthly spend does not exceed this multiple of your daily budget, even if your ads are delivered more heavily on some days.
+
+Here's a breakdown:
+
+30.4 times the daily budget is used to calculate the total monthly expenditure.
+This allows flexibility for Google Ads to deliver ads more heavily on certain days, but the monthly total will never exceed 30.4 times the daily budget.
+So, the correct answer is 30.4.
+
+
+You said:
+Which strategy is best for branding? 
+
+
+CPV 
+CPM 
+CPC 
+None of these 
+ChatGPT said:
+ChatGPT
+The correct answer is CPM (Cost Per Thousand Impressions).
+
+CPM (Cost Per Thousand Impressions) is the best strategy for branding because it focuses on maximizing visibility by paying for every 1,000 impressions (views) your ad receives. This approach is ideal for branding campaigns, as it helps increase awareness by getting your ad in front of as many people as possible, rather than focusing on specific actions like clicks or views.
+
+Here's a breakdown of the other options:
+
+CPV (Cost Per View): This is more suitable for video ads, especially for actions like getting people to watch your video. While it can support branding, it is more action-oriented.
+
+CPC (Cost Per Click): This is a performance-based strategy aimed at getting users to click on your ad. It is more suited for direct-response or conversion-driven campaigns rather than pure branding.
+
+So, CPM is the most suitable strategy for branding since it emphasizes visibility and exposure.
+
+
+You said:
+When conversion data shows that mobile drives more value, you would ________ your mobile bid. When conversion data shows that desktop drives more value, you would _________ your mobile bid. 
+
+
+increase, increase 
+decrease, decrease 
+increase, decrease 
+decrease, increase 
+ 
+ChatGPT said:
+ChatGPT
+The correct answer is: increase, decrease.
+
+When mobile drives more value, you would increase your mobile bid to capitalize on the higher conversion potential from mobile users.
+When desktop drives more value, you would decrease your mobile bid, as it’s not performing as well compared to desktop, and you want to optimize your spending.
+This approach helps you adjust your bids according to the performance and value driven by each device type, ensuring more efficient ad spend.
+
+
+You said:
+ Which of the following is NOT a type of mobile ad extension? 
+
+
+App extension 
+Sitelink extension 
+Call extension 
+Download extension 
+ 
+ 
+ChatGPT said:
+ChatGPT
+The correct answer is Download extension.
+
+There is no specific Download extension in Google Ads for mobile ads. However, the other options are types of mobile ad extensions:
+
+App extension: Allows you to promote your mobile app and enable users to download it directly from the ad.
+Sitelink extension: Provides additional links in your ad, allowing users to navigate to specific pages on your website.
+Call extension: Adds a phone number to your ad, enabling users to call your business directly from the ad.
+Since Download extension is not a recognized ad extension, it is the correct answer.
+
+
+You said:
+What are the two options that viewable CPM ads offer? 
+
+
+Location targeting 
+Keyword bidding 
+Auction-based bidding 
+Reserved placements 
+ 
+ChatGPT said:
+ChatGPT
+The correct answer is Auction-based bidding and Reserved placements.
+
+Here's an explanation of both:
+
+Auction-based bidding: This option allows advertisers to bid for ad placements based on an auction system, where bids are placed for viewable impressions, and the ad is shown to the right audience based on the bidding strategy and targeting options.
+
+Reserved placements: In this model, advertisers can secure guaranteed placements for their ads on specific sites or inventory, ensuring that the ad is shown in a premium or desired context. It is reserved in advance, typically at a fixed cost.
+
+The other options:
+
+Location targeting: While location targeting is a common targeting option, it's not specifically tied to viewable CPM ads.
+Keyword bidding: Keyword bidding is more related to search ads and not typically used in viewable CPM advertising.
+Thus, the two options specific to viewable CPM ads are Auction-based bidding and Reserved placements.
+
+
+You said:
+A boutique tea store has identified the broad match keywords to be ?fancy tea?. Which of the following search queries could cause the ad to show up? 
+
+
+Best beverages 
+Tea stores in my city 
+Fancy chamomile green tea 
+Flavored Herbal Infusion 
+ChatGPT said:
+ChatGPT
+The correct answer is Fancy chamomile green tea.
+
+With broad match keywords, like "fancy tea," the ad can show up for any search query that is related or includes words similar to the target keyword.
+
+Here's an explanation for each option:
+
+Best beverages: While "beverages" is related to tea, it's too broad and doesn't specifically include "tea" or a close variation to trigger the ad for "fancy tea." Therefore, this would not likely trigger the ad.
+
+Tea stores in my city: This query is specific to tea stores, but doesn't directly contain "fancy tea" or a related phrase. While it might trigger ads for tea-related keywords, it is not an exact match.
+
+Fancy chamomile green tea: This query directly includes "fancy" and "tea," making it a good match for the broad match keyword "fancy tea." This is the most likely search to trigger the ad.
+
+Flavored Herbal Infusion: This is a variation on tea, but it doesn't contain the word "fancy" or closely related terms to "fancy tea," so it's less likely to trigger the ad.
+
+Thus, "Fancy chamomile green tea" is the search query most likely to trigger the ad based on the broad match keyword "fancy tea."
+
+
+You said:
+What does a search terms report include? 
+
+
+Cost per conversion 
+Similar competitor ads with higher conversion rates 
+Ad group budget and expenditure breakup 
+User search queries 
+ChatGPT said:
+ChatGPT
+The correct answer is User search queries.
+
+A search terms report in Google Ads includes user search queries that triggered your ads. It shows the actual words or phrases that users entered into the search engine, which led to your ad being displayed. This report is helpful for identifying which search terms are performing well and which may need to be added as negative keywords or refined for better targeting.
+
+Here's an explanation of the other options:
+
+Cost per conversion: This is a performance metric, but it is not part of the search terms report. It would be found in other performance reports within Google Ads.
+
+Similar competitor ads with higher conversion rates: This information is not provided by a search terms report. It might be accessible through competitive insights or tools like Auction Insights.
+
+Ad group budget and expenditure breakup: This is related to campaign and budget management, not the search terms report.
+
+Therefore, the search terms report primarily includes user search queries that triggered your ads.
+
+
+You said:
+Which ad type does not allow the user to go to the advertiser?s Website? 
+
+
+Call only 
+Dynamic Search 
+Product listing 
+Text 
+ChatGPT said:
+ChatGPT
+The correct answer is Call only.
+
+Call-only ads are specifically designed to encourage users to call the advertiser rather than visit a website. When someone clicks on a call-only ad, it initiates a phone call to the business, rather than directing them to a website.
+
+Here's an explanation of the other ad types:
+
+Dynamic Search: These ads lead to the advertiser's website and are based on the content of the website, dynamically generating ads to match relevant searches.
+Product listing: These are used for Google Shopping ads, which include product images and prices and direct users to the advertiser's website.
+Text: These are standard search ads that lead users to the advertiser's website when clicked.
+Thus, Call only ads are the ones that do not allow the user to go to the advertiser's website.
